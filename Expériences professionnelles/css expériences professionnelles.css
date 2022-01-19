@@ -1,0 +1,54 @@
+body {
+	font-family: Didot, serif; 
+	font-variant : small-caps; 
+}
+
+h1 {
+color: black ;
+font-size : 55px;
+} 
+
+#page-lidl {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #C1D4D9; 
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#page-decathlon {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #C1D4D9; 
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#page-AFEV {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #C1D4D9; 
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#lidl-liste {
+	text-align : left;
+}
+
+#decathlon-liste {
+	text-align : left;
+}
+
+#titre-AFEV, #titre-decathlon, #titre-lidl {
+	border-bottom : 1px solid black
+}

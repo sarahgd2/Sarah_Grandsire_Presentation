@@ -1,0 +1,59 @@
+body {
+	font-family: Didot, serif; 
+	font-variant : small-caps; 
+}
+
+h1 {
+color: black ;
+font-size : 55px;
+} 
+
+#page-DEUG {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #AEDAEB;
+	font-size : 20px;  
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+} 
+
+#page-bac {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #AEDAEB; 
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+} 
+
+#page-FA {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #AEDAEB; 
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+} 
+
+#FA-liste {
+	text-align : left; 
+}
+
+#titre-DEUG, #titre-BAC, #titre-FA {
+	border-bottom : 1px solid black
+}
+
+.intro, .mensonge, .profilage, .violences-conjugales, .menaces-anonymes, .légendes-urbaines, .snuffs-movies {
+	font-weight : bold; 
+}
+
+.Harrati2019, .Py,  .Beauregard, .Harrati2020, .St-Yves, .Van-Winkel, .Laperrière {
+	font-style : italic;
+}

@@ -1,0 +1,66 @@
+body {
+	font-family: Didot, serif; 
+	font-variant : small-caps; 
+}
+
+h1 {
+color: black ;
+font-size : 55px;
+} 
+
+ul li {
+	list-style-type : circle ; 
+	text-align : center; 
+	list-style-position : inside;
+} 
+
+#page-permis {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: left;
+	align-content: center;
+	background-color : #DBDBDB; 
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#page-langues {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #DBDBDB;
+	font-size: 20px; 
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#page-logiciels {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #DBDBDB; 
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#p {
+	text-align : center; 
+}
+
+#titre-permis {
+	text-align : center; 
+}	
+
+#titre-langues, #titre-logiciels, #titre-permis {
+	border-bottom : 1px solid black
+}
+
+.photo-twingo {
+	position :relative; 
+	left : 400px; 
+	border : 1px solid black;
+} 

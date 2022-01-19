@@ -1,0 +1,151 @@
+{} 
+
+body {
+	font-family: Didot, serif; 
+	font-variant : small-caps; 
+}
+
+h1 {
+	color: black ;
+	font-size : 65px;
+} 
+
+h2 {
+	color: black;
+	font-size: 50px;
+}
+
+h3 {
+	color: black;
+	font-size: 30px;
+} 
+
+ol li {
+	list-style-position: inside;
+	text-align: center;
+	list-style-type: upper-roman;
+	font-size: 20px;
+}
+
+ul li {
+	list-style-type: none;
+	text-align : left; 
+}
+
+#page-principale {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color: #9FCCF5;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#nom {
+	border-bottom : 3px solid black;
+	width : 1200px; 
+}
+
+#sommaire {
+	text-align: left;
+}
+
+#page-formations {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #AEDAEB; 
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+} 
+
+#page-expériences-professionnelles {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #C1D4D9;  
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+} 
+
+#page-compétences {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #DBDBDB;
+	font-size: 20px;  
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#page-centres-dintérêts {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #EDDDDD;  
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+} 
+
+#page-objectifs {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #B0C6D9; 
+	font-size: 20px; 
+	padding-left: 30px;
+	padding-right: 30px;
+} 
+
+#titre-formations, #titre-centres-dintérêts, #titre-compétences, #titre-expériences-professionnelles, #titre-objectifs {
+	border-bottom : 2px solid black;
+}
+
+.formations, .expériences-professionnelles, .compétences, .centres-dintérêts, .objectifs {
+	color : black;
+	font-size : 20px; 
+	text-decoration: underline #9FCCF5;
+}
+
+.adresse, .numéro, .adresse-mail, .lien-linkedin {
+	border:  1px solid black;
+	padding : 5px; 
+	margin : 5px; 
+}
+
+.adresse-mail, .lien-linkedin {
+	color: black; 
+	text-decoration : underline #9FCCF5;
+}
+
+.DEUG, .bac, .FA {
+	color: black;
+	text-decoration: underline #AEDAEB;
+}
+
+.lidl, .decathlon, .AFEV {
+	color: black;
+	text-decoration: underline #C1D4D9;
+} 
+
+.permis, .langues-logiciels {
+	color: black;
+	text-decoration: underline #DBDBDB;
+} 
+
+.sports, .sports-mécaniques, .arts-créatifs {
+	color: black;
+	text-decoration: underline #EDDDDD;
+}
+
+  
+

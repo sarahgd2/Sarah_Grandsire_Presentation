@@ -1,0 +1,76 @@
+body {
+	font-family: Didot, serif; 
+	font-variant : small-caps; 
+}
+
+h1  {
+color: black ;
+font-size : 55px;
+} 
+
+ul li {
+	list-style-type : none; 
+}
+
+#page-pratiques-sportives {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #EDDDDD; 
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+} 
+
+#page-sports-mécaniques {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #EDDDDD; 
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#page-arts-créatifs {
+	width:  1200px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+	background-color : #EDDDDD; 
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+} 
+
+#titre-arts-créatifs, #titre-sports-mécaniques, #titre-pratiques-sportives {
+	border-bottom : 1px solid black
+}
+
+#liste-F1 {
+	text-align : left;
+}
+
+#titre-sports-mécaniques {
+	border-bottom: 3px solid black; 
+}
+
+.titre-F1 {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.screen-insta-rb, .screen_rb18blanche {
+	position: relative;
+	left: 185px;
+	border: 1px solid black;
+}
+
+.vidéo-insta-rb-23-03_2021 {
+	position: relative;
+	left: 185px;
+	border: 1px solid black;
+}
+
